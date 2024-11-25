@@ -1,0 +1,1 @@
+print("Projek Algo 1")
